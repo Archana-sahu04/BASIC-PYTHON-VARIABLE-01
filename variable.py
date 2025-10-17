@@ -11,7 +11,7 @@ person_info = {
     'firstname':'Sagar', 
     'lastname':'Barahi', 
     'country':'HYD',
-    'city':'TELENGA'
+    'city':'TELENGANA'
     }
 
 # Printing the values stored in the variables
@@ -36,4 +36,5 @@ print('First name:', first_name)
 print('Last name: ', last_name)
 print('Country: ', country)
 print('Age: ', age)
+
 print('Married: ', is_married)
